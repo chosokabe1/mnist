@@ -1,3 +1,12 @@
 .cuda116/
 .jikken4/
 MNIST/
+cifar-10-python.tar.gz
+cifar-10-batches-py/batches.meta
+cifar-10-batches-py/data_batch_1
+cifar-10-batches-py/data_batch_2
+cifar-10-batches-py/data_batch_3
+cifar-10-batches-py/data_batch_4
+cifar-10-batches-py/data_batch_5
+cifar-10-batches-py/readme.html
+cifar-10-batches-py/test_batch
